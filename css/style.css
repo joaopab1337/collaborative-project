@@ -1,3 +1,8 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #636c98 !important;
+}
+
 #image {
   max-width: 100%;
   display: block;
@@ -11,4 +16,19 @@
 
 #img-div {
   text-align: center;
+}
+
+#title {
+  margin: 32px 0 8px 0;
+  font-family: 'Domine', serif;
+}
+
+#header {
+  text-align: center;
+  color: #6e25ff;
+}
+
+#header p {
+  margin: 0 0 32px 0;
+  color: #636c98;
 }
