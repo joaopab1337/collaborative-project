@@ -31,6 +31,33 @@ body {
 
 #header p {
   margin: 0 0 32px 0;
+}
+#tribute-info{
+  margin: 0 auto;
+  width: 500px;
+}
+
+#tribute-link{
+  margin: 0 auto;
+  border-color: #6e25ff;
+  color: #6e25ff;
+}
+
+#tribute-link:hover {
+  background: #6e25ff;
+  color: white;
+}
+
+.subtile{
+  padding-top: 10px;
+  color: #6e25ff;
+}
+
+.text-title {
+  color: #6e25ff;
+}
+
+.lead-body {
   color: #636c98;
 }
 #tribute-info{
